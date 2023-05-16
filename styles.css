@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
